@@ -1,3 +1,8 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/801/flyonui)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/801/flyonui)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/801/flyonui)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/801/flyonui)
+
 # FlyonUI MCP Server
 
 Build modern, production-ready UI blocks, components, and landing pages in minutes. Seamlessly integrates with your favorite IDE and supports the most popular frameworks like React, Next.js, Nuxt, Vue, Svelte, and more.
